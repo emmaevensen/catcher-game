@@ -5,6 +5,7 @@ import sys, random
 
 #lager et vindu/flate
 
+
 # Konstanter
 WIDTH = 400
 HEIGHT = 600
